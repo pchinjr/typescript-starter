@@ -9,6 +9,7 @@
     "start": "ampt"
   },
   "ampt": {
-    "app": "typescript-starter"
+    "app": "typescript-starter",
+    "org": "pchinjr888430"
   }
 }
